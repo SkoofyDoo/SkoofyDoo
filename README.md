@@ -12,4 +12,4 @@
 </p>
 
 ### 📊 GitHub Stats
-![Evgeny's GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=dracula)
+![Evgeny's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkoofyDoo&show_icons=true&theme=dracula)
