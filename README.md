@@ -17,6 +17,7 @@ Ich baue intelligente, serverless Architekturen und moderne Web-Apps. Mein aktue
 ### 🚀 Aktueller Fokus: **Dallio**
 Ich entwickle derzeit einen **SaaS-KI-Dashboard-Assistenten**, der Privatpersonen und Ämtern hilft, Papierkram, Finanzen und den deutschen Bürokratie-Dschungel zu automatisieren.
 - **Ziel:** 1000 Nutzer in 12 Monaten.
+- **Aktuell:** 2.
 - **Architektur:** 100% Serverless, KI-gestützt, hochperformant.
 
 ### 💻 Mein Tech Stack
