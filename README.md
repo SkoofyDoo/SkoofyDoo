@@ -34,16 +34,17 @@ Ich entwickle derzeit einen **SaaS-KI-Dashboard-Assistenten**, der Privatpersone
   <img src="https://streak-stats.demolab.com/?user=SkoofyDoo&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkoofyDoo&theme=dracula&exclude={exclude}" alt="GitHub Summary" />
+</div>
+
+
 <br>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkoofyDoo&theme=dracula" alt="GitHub Summary" />
 </div>
 
-<br>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkoofyDoo&theme=dracula&exclude={exclude}" alt="GitHub Summary" />
-</div>
 ---
 
 
