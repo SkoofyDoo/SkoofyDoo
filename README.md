@@ -38,6 +38,14 @@ Ich entwickle derzeit einen **SaaS-KI-Dashboard-Assistenten**, der Privatpersone
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkoofyDoo&theme=dracula" alt="GitHub Summary" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkoofyDoo&theme=dracula&exclude={exclude}" alt="GitHub Summary" />
+</div>
 ---
+
+
 
 
