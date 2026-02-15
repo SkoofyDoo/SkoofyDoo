@@ -3,15 +3,16 @@
   <h3>Fachinformatiker für Anwendungsentwicklung | Berlin 🇩🇪</h3>
 </div>
 
+<img src="https://img.shields.io/badge/Geboren-08.07.1994" alt="React" />
 <p align="center">
-  Ich baue intelligente, serverless Architekturen und moderne Web-Apps. Mein aktueller Fokus liegt darauf, komplexe Prozesse zu vereinfachen und die deutsche Bürokratie durch Technologie zu besiegen.
+Ich baue intelligente, serverless Architekturen und moderne Web-Apps. Mein aktueller Fokus liegt darauf, komplexe Prozesse zu vereinfachen und die deutsche Bürokratie durch Technologie zu besiegen.
 </p>
 
 ---
 
 ### 🚀 Aktueller Fokus: **Dallio**
 Ich entwickle derzeit einen **SaaS-KI-Dashboard-Assistenten**, der Privatpersonen und Ämtern hilft, Papierkram, Finanzen und den deutschen Bürokratie-Dschungel zu automatisieren.
-- **Ziel:** 1000 Nutzer in 6 Monaten.
+- **Ziel:** 1000 Nutzer in 12 Monaten.
 - **Architektur:** 100% Serverless, KI-gestützt, hochperformant.
 
 ### 💻 Mein Tech Stack
@@ -28,7 +29,6 @@ Ich entwickle derzeit einen **SaaS-KI-Dashboard-Assistenten**, der Privatpersone
 ---
 
 ### 📊 Meine GitHub Statistiken
-*(Autoupdate)*
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=SkoofyDoo&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak" />
