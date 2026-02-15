@@ -2,8 +2,13 @@
   <h1>Hi 👋 Ich bin Evgeny (SkoofyDoo)</h1>
   <h3>Fachinformatiker für Anwendungsentwicklung | Berlin 🇩🇪</h3>
 </div>
-<p>
-  <img src="https://img.shields.io/badge/Geboren-08.07.1994" alt="Geburtsdatum" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Geboren-08.07.94-1F2937?style=for-the-badge&logo=internet-archive&logoColor=white" alt="Geboren" />
+  <img src="https://img.shields.io/badge/Junior_Entwickler-F59E0B?style=for-the-badge&logo=dev-to&logoColor=black" alt="Junior" />
+  <br>
+  <img src="https://img.shields.io/badge/Sprache-Deutsch-black?style=for-the-badge&logo=google-translate&logoColor=F59E0B" alt="Deutsch" />
+  <img src="https://img.shields.io/badge/Sprache-English-black?style=for-the-badge&logo=google-translate&logoColor=0055AA" alt="English" />
+  <img src="https://img.shields.io/badge/Sprache-Russisch-black?style=for-the-badge&logo=google-translate&logoColor=E4181C" alt="Russisch" />
 </p>
 p align="center">
 Ich baue intelligente, serverless Architekturen und moderne Web-Apps. Mein aktueller Fokus liegt darauf, komplexe Prozesse zu vereinfachen und die deutsche Bürokratie durch Technologie zu besiegen.
