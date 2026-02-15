@@ -37,11 +37,8 @@ Ich entwickle derzeit einen **SaaS-KI-Dashboard-Assistenten**, der Privatpersone
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkoofyDoo&layout=compact&theme=dracula&hide_border=true&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SkoofyDoo&layout=compact&theme=dracula&hide_border=true&border_radius=10" alt="Top Languages" />
 </div>
-
 ---
 
-<div align="center">
-  <i>"KI ersetzt uns nicht – sie optimiert unsere Arbeit und beschleunigt Prozesse."</i>
-</div>
+
