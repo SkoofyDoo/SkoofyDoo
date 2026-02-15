@@ -2,7 +2,7 @@
   <h1>Hi 👋 Ich bin Evgeny (SkoofyDoo)</h1>
   <h3>Fachinformatiker für Anwendungsentwicklung | Berlin 🇩🇪</h3>
 </div>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Geboren-08.07.94-1F2937?style=for-the-badge&logo=internet-archive&logoColor=white" alt="Geboren" />
   <img src="https://img.shields.io/badge/Junior_Entwickler-F59E0B?style=for-the-badge&logo=dev-to&logoColor=black" alt="Junior" />
   <br>
