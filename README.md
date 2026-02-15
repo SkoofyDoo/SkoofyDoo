@@ -35,9 +35,8 @@ Ich entwickle derzeit einen **SaaS-KI-Dashboard-Assistenten**, der Privatpersone
 </div>
 
 <br>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SkoofyDoo&layout=compact&theme=dracula&hide_border=true&border_radius=10" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkoofyDoo&theme=dracula" alt="GitHub Summary" />
 </div>
 ---
 
