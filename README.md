@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 Aktueller Fokus: **Ordo**
+### 🚀 Aktueller Fokus: **Dallio**
 Ich entwickle derzeit einen **SaaS-KI-Dashboard-Assistenten**, der Privatpersonen und Ämtern hilft, Papierkram, Finanzen und den deutschen Bürokratie-Dschungel zu automatisieren.
 - **Ziel:** 1000 Nutzer in 6 Monaten.
 - **Architektur:** 100% Serverless, KI-gestützt, hochperformant.
