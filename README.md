@@ -2,9 +2,10 @@
   <h1>Hi 👋 Ich bin Evgeny (SkoofyDoo)</h1>
   <h3>Fachinformatiker für Anwendungsentwicklung | Berlin 🇩🇪</h3>
 </div>
-
-<img src="https://img.shields.io/badge/Geboren-08.07.1994" alt="React" />
-<p align="center">
+<p>
+  <img src="https://img.shields.io/badge/Geboren-08.07.1994" alt="Geburtsdatum" />
+</p>
+p align="center">
 Ich baue intelligente, serverless Architekturen und moderne Web-Apps. Mein aktueller Fokus liegt darauf, komplexe Prozesse zu vereinfachen und die deutsche Bürokratie durch Technologie zu besiegen.
 </p>
 
