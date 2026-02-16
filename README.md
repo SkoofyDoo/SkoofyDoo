@@ -6,16 +6,16 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Berlin-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Languages-DE | EN | RU-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Cloud | Security | SaaS-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Cloud | GraphQL | Security-1F2937?style=for-the-badge" />
 </p>
 
 ---
 
 ## 👨‍💻 Über mich
 
-Ich entwickle moderne Webanwendungen und cloud-native Architekturen mit Fokus auf Skalierbarkeit, Sicherheit und klarer Systemstruktur.
+Ich entwickle moderne Webanwendungen und cloud-native SaaS-Systeme mit Fokus auf Skalierbarkeit, klarer Architektur und Sicherheitsbewusstsein.
 
-Mein Schwerpunkt liegt auf serverless AWS-Architekturen, API-Design und produktionsnaher Umsetzung realer SaaS-Systeme.
+Mein Schwerpunkt liegt auf serverless AWS-Architekturen mit GraphQL-Backend und TypeScript.
 
 Ich denke in Systemen – nicht nur in Features.
 
@@ -25,15 +25,17 @@ Ich denke in Systemen – nicht nur in Features.
 
 Entwicklung eines KI-gestützten Dashboard-Assistenten zur Automatisierung von Verwaltungs- und Finanzprozessen.
 
-### Technischer Fokus:
+### Architektur:
 
 - Serverless Architektur auf AWS  
-  (Lambda, API Gateway, DynamoDB, S3, Cognito)
-- RESTful API Design
+  (Amplify, AppSync, Lambda, DynamoDB, S3, Cognito)
+- GraphQL API (AWS AppSync) – schema-first Entwicklung (`schema.graphql`)
+- TypeScript Backend-Logik & Resolver
+- NoSQL-Datenmodellierung mit DynamoDB
 - Authentifizierung & Rollenverwaltung mit Cognito
-- NoSQL-Datenmodellierung
+- Storage Layer mit S3
 - KI-Integration für Dokumentenverarbeitung
-- Skalierbares User- & Berechtigungsmanagement
+- CI/CD & Cloud Deployment
 
 **Ziel:** 1000 zahlende Nutzer innerhalb von 12 Monaten.
 
@@ -47,16 +49,15 @@ Entwicklung eines KI-gestützten Dashboard-Assistenten zur Automatisierung von V
 
 ### 🧠 Kerntechnologien
 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/AWS_AppSync-FF9900?style=for-the-badge" /><br>
 <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge" /><br>
 <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Amazon_Cognito-DD344C?style=for-the-badge&logo=amazon-cognito&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_Cognito-DD344C?style=for-the-badge&logo=amazon-cognito&logoColor=white" />
 
 </td>
 
@@ -64,12 +65,12 @@ Entwicklung eines KI-gestützten Dashboard-Assistenten zur Automatisierung von V
 
 ### 🔧 Weitere Technologien & Tools
 
+<img src="https://img.shields.io/badge/AWS_Amplify-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge" /><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" /><br>
-<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge" /><br>
 <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge" /><br>
 <img src="https://img.shields.io/badge/Serverless-111827?style=for-the-badge" />
 
@@ -81,14 +82,14 @@ Entwicklung eines KI-gestützten Dashboard-Assistenten zur Automatisierung von V
 
 ## 🏗 Architektur-Kompetenzen
 
-- REST API Design
+- GraphQL API Design (schema-first)
 - Serverless Deployment Patterns
-- Event-driven Architektur
-- Cloud Security Basics (IAM, Rollen, Policies)
+- Cloud-native Systemarchitektur
 - Authentifizierungs- & Berechtigungslogik
+- IAM & grundlegende Security-Prinzipien
 - NoSQL-Datenmodellierung
 - Performance- & Skalierungsdenken
-- CI/CD Integration
+- Produktionsnahe Cloud-Systeme
 
 ---
 
@@ -127,10 +128,10 @@ Entwicklung eines KI-gestützten Dashboard-Assistenten zur Automatisierung von V
 
 ## 🤝 Offen für
 
-- Junior / Advanced Junior Positionen mit Cloud-Fokus
-- SaaS-nahe Entwicklung
-- Cloud- & Security-orientierte Teams
-- Verantwortung in produktionsnahen Systemen
+- Cloud-orientierte Entwicklerrollen
+- SaaS- & Produkt-nahe Teams
+- GraphQL / Serverless Backend Positionen
+- Entwicklung mit Architekturverantwortung
 
 ---
 
