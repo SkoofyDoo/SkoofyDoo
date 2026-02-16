@@ -1,148 +1,131 @@
 <div align="center">
-  <h1>Hi 👋 Ich bin Evgeny (SkoofyDoo)</h1>
-  <h3>Fachinformatiker für Anwendungsentwicklung | Cloud- & SaaS-orientierter Entwickler | Berlin 🇩🇪</h3>
-</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Berlin-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Languages-DE | EN | RU-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Cloud | GraphQL | Security-1F2937?style=for-the-badge" />
-</p>
+# Hi 👋 Ich bin Evgeny (SkoofyDoo)
+
+### Cloud- & SaaS-orientierter Entwickler  
+### Fokus auf Architektur, Skalierbarkeit & Security  
+Berlin 🇩🇪
+
+<br/>
+
+![Location](https://img.shields.io/badge/Location-Berlin-111827?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Languages-DE%20%7C%20EN%20%7C%20RU-black?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Cloud%20%7C%20TypeScript%20%7C%20GraphQL%20%7C%20Security-1F2937?style=for-the-badge)
+
+</div>
 
 ---
 
-## 👨‍💻 Über mich
+## 👨‍💻 Profil
 
-Ich entwickle moderne Webanwendungen und cloud-native SaaS-Systeme mit Fokus auf Skalierbarkeit, klarer Architektur und Sicherheitsbewusstsein.
+Ich entwickle moderne cloud-native Webanwendungen mit klarem Architekturansatz.
 
-Mein Schwerpunkt liegt auf serverless AWS-Architekturen mit GraphQL-Backend und TypeScript.
+Mein Fokus liegt auf:
+
+- Serverless AWS-Architekturen  
+- TypeScript als primäre Backend-Sprache  
+- GraphQL API Design (schema-first)  
+- Skalierbaren SaaS-Systemen  
+- Security-by-Design  
 
 Ich denke in Systemen – nicht nur in Features.
 
 ---
 
-## 🚀 Aktuelles Projekt: Dallio (SaaS)
+## 🚀 Aktuelles Projekt: **Dallio (SaaS)**
 
-Entwicklung eines KI-gestützten Dashboard-Assistenten zur Automatisierung von Verwaltungs- und Finanzprozessen.
+KI-gestützter Dashboard-Assistent zur Automatisierung von Verwaltungs- und Finanzprozessen.
 
-### Architektur:
+### Architektur
 
-- Serverless Architektur auf AWS  
+- Serverless Infrastruktur auf AWS  
   (Amplify, AppSync, Lambda, DynamoDB, S3, Cognito)
-- GraphQL API (AWS AppSync) – schema-first Entwicklung (`schema.graphql`)
-- TypeScript Backend-Logik & Resolver
+- GraphQL API (schema-first Entwicklung)
+- TypeScript-basierte Resolver & Business-Logik
 - NoSQL-Datenmodellierung mit DynamoDB
-- Authentifizierung & Rollenverwaltung mit Cognito
-- Storage Layer mit S3
+- Rollen- & Rechteverwaltung mit Cognito
+- Storage Layer via S3
+- CI/CD & automatisiertes Cloud Deployment
 - KI-Integration für Dokumentenverarbeitung
-- CI/CD & Cloud Deployment
 
 **Ziel:** 1000 zahlende Nutzer innerhalb von 12 Monaten.
 
 ---
-## 💻 Technologie-Stack
+
+# 💻 Technologie-Stack
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+### 🧠 Core Technologies
 
-### 🧠 Kerntechnologien
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<br/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/AWS_AppSync-FF9900?style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Amazon_Cognito-DD344C?style=for-the-badge&logo=amazon-cognito&logoColor=white" />
-
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS AppSync](https://img.shields.io/badge/AWS_AppSync-FF9900?style=for-the-badge)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Amazon Cognito](https://img.shields.io/badge/Amazon_Cognito-DD344C?style=for-the-badge&logo=amazon-cognito&logoColor=white)
 
 </td>
 
 <td width="50%" valign="top">
 
-<div align="center">
+### 🔧 Tools & Infrastructure
 
-### 🔧 Weitere Technologien & Tools
-
-<img src="https://img.shields.io/badge/AWS_Amplify-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/Serverless-111827?style=for-the-badge" />
-
-</div>
+![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge)
+![Serverless](https://img.shields.io/badge/Serverless-111827?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
 
 </td>
 </tr>
 </table>
->
 
 ---
 
 ## 🏗 Architektur-Kompetenzen
 
 - GraphQL API Design (schema-first)
-- Serverless Deployment Patterns
+- Serverless Patterns & Event-driven Design
 - Cloud-native Systemarchitektur
+- IAM & Security-Prinzipien
 - Authentifizierungs- & Berechtigungslogik
-- IAM & grundlegende Security-Prinzipien
 - NoSQL-Datenmodellierung
-- Performance- & Skalierungsdenken
-- Produktionsnahe Cloud-Systeme
+- Performance- & Skalierungsstrategien
+- Produktionsnahe AWS-Systeme
 
 ---
 
-## 🎯 Berufliche Ziele
+## 🎯 Berufliche Ausrichtung
 
-### Kurzfristig (12 Monate)
+### Kurzfristig
 
-- 1000 zahlende SaaS-Nutzer erreichen
-- Produktionsreife Cloud-Systeme stabil betreiben
-- Technische Verantwortung für Architekturentscheidungen übernehmen
+- SaaS auf produktionsreifes Niveau skalieren
+- Architekturverantwortung übernehmen
+- Cloud-Systeme stabil & sicher betreiben
 
-### Mittelfristig (2 Jahre)
+### Mittelfristig
 
-- Entwicklung zum **Mid-Level Engineer**
-- Spezialisierung auf **Cloud Architecture & Security**
-- Vertiefung im Bereich DevSecOps
-- Design sicherer, skalierbarer Produktionsumgebungen
+- Entwicklung zum **Mid-Level Cloud Engineer**
+- Vertiefung in **Cloud Architecture & Security**
+- Ausbau Richtung **DevSecOps**
 
 ---
 
 ## 📊 GitHub Statistiken
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com/?user=SkoofyDoo&theme=dracula&hide_border=true&border_radius=10" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkoofyDoo&theme=dracula" />
-</div>
+<img src="https://streak-stats.demolab.com/?user=SkoofyDoo&theme=dracula&hide_border=true&border_radius=10" />
 
-<div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkoofyDoo&theme=dracula" />
-</div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkoofyDoo&theme=dracula" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkoofyDoo&theme=dracula" />
 
 ---
 
@@ -150,8 +133,8 @@ Entwicklung eines KI-gestützten Dashboard-Assistenten zur Automatisierung von V
 
 - Cloud-orientierte Entwicklerrollen
 - SaaS- & Produkt-nahe Teams
-- GraphQL / Serverless Backend Positionen
-- Entwicklung mit Architekturverantwortung
+- Serverless / GraphQL Backend Positionen
+- Architektur-orientierte Entwicklungsrollen
 
 ---
 
