@@ -6,37 +6,34 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Berlin-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Languages-DE | EN | RU-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Cloud & Security-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Cloud | Security | SaaS-1F2937?style=for-the-badge" />
 </p>
 
 ---
 
 ## 👨‍💻 Über mich
 
-Ich entwickle moderne Webanwendungen und serverless Cloud-Architekturen mit Fokus auf Skalierbarkeit, Sicherheit und Automatisierung.
+Ich entwickle moderne Webanwendungen und cloud-native Architekturen mit Fokus auf Skalierbarkeit, Sicherheit und klarer Systemstruktur.
 
-Mein Schwerpunkt liegt auf:
+Mein Schwerpunkt liegt auf serverless AWS-Architekturen, API-Design und produktionsnaher Umsetzung realer SaaS-Systeme.
 
-- ☁️ Cloud-native Architektur (AWS)
-- ⚙️ Serverless Patterns
-- 🔐 Sicherheitsbewusstem Design
-- 📈 Produktdenken statt nur Feature-Umsetzung
-
-Ich arbeite lösungsorientiert, strukturiert und mit langfristigem Architektur-Denken.
+Ich denke in Systemen – nicht nur in Features.
 
 ---
 
 ## 🚀 Aktuelles Projekt: Dallio (SaaS)
 
-Entwicklung eines KI-gestützten SaaS-Dashboard-Assistenten zur Automatisierung von Verwaltungs- und Finanzprozessen.
+Entwicklung eines KI-gestützten Dashboard-Assistenten zur Automatisierung von Verwaltungs- und Finanzprozessen.
 
-**Technischer Fokus:**
+### Technischer Fokus:
 
-- Serverless Architektur mit AWS
-- API-basierte Backend-Struktur
+- Serverless Architektur auf AWS  
+  (Lambda, API Gateway, DynamoDB, S3, Cognito)
+- RESTful API Design
+- Authentifizierung & Rollenverwaltung mit Cognito
 - NoSQL-Datenmodellierung
 - KI-Integration für Dokumentenverarbeitung
-- Skalierbares User-Management
+- Skalierbares User- & Berechtigungsmanagement
 
 **Ziel:** 1000 zahlende Nutzer innerhalb von 12 Monaten.
 
@@ -57,6 +54,8 @@ Entwicklung eines KI-gestützten SaaS-Dashboard-Assistenten zur Automatisierung 
 <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge" /><br>
 <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Amazon_Cognito-DD344C?style=for-the-badge&logo=amazon-cognito&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
 </td>
@@ -70,9 +69,9 @@ Entwicklung eines KI-gestützten SaaS-Dashboard-Assistenten zur Automatisierung 
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" /><br>
-<img src="https://img.shields.io/badge/Serverless-111827?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge" /><br>
 <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge" /><br>
-<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Serverless-111827?style=for-the-badge" />
 
 </td>
 </tr>
@@ -83,27 +82,30 @@ Entwicklung eines KI-gestützten SaaS-Dashboard-Assistenten zur Automatisierung 
 ## 🏗 Architektur-Kompetenzen
 
 - REST API Design
-- Event-Driven Architektur
 - Serverless Deployment Patterns
+- Event-driven Architektur
 - Cloud Security Basics (IAM, Rollen, Policies)
-- CI/CD Integration
+- Authentifizierungs- & Berechtigungslogik
 - NoSQL-Datenmodellierung
-- Performance-Optimierung
+- Performance- & Skalierungsdenken
+- CI/CD Integration
 
 ---
 
 ## 🎯 Berufliche Ziele
 
 ### Kurzfristig (12 Monate)
+
 - 1000 zahlende SaaS-Nutzer erreichen
-- Produktionsreife, stabile Cloud-Systeme betreiben
-- Verantwortung für Architekturentscheidungen übernehmen
+- Produktionsreife Cloud-Systeme stabil betreiben
+- Technische Verantwortung für Architekturentscheidungen übernehmen
 
 ### Mittelfristig (2 Jahre)
+
 - Entwicklung zum **Mid-Level Engineer**
 - Spezialisierung auf **Cloud Architecture & Security**
-- Aufbau fundierter Kenntnisse in DevSecOps
-- Design sicherer und skalierbarer Produktionsumgebungen
+- Vertiefung im Bereich DevSecOps
+- Design sicherer, skalierbarer Produktionsumgebungen
 
 ---
 
@@ -126,10 +128,12 @@ Entwicklung eines KI-gestützten SaaS-Dashboard-Assistenten zur Automatisierung 
 ## 🤝 Offen für
 
 - Junior / Advanced Junior Positionen mit Cloud-Fokus
-- Cloud- & SaaS-nahe Entwicklung
-- Teams mit technischem Anspruch und Wachstumsperspektive
-- Verantwortung in realen Produktionssystemen
+- SaaS-nahe Entwicklung
+- Cloud- & Security-orientierte Teams
+- Verantwortung in produktionsnahen Systemen
 
 ---
 
-> Building scalable systems. Thinking in architecture. Growing in cloud & security.
+> Building scalable cloud systems.  
+> Thinking in architecture.  
+> Growing in security.
