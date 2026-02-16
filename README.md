@@ -45,7 +45,7 @@ Entwicklung eines KI-gestützten Dashboard-Assistenten zur Automatisierung von V
 
 <table align="center" width="100%">
 <tr>
-<td width="100%" valign="top">
+<td width="maxWidth" valign="top">
 
 ### 🧠 Kerntechnologien
 
@@ -61,7 +61,7 @@ Entwicklung eines KI-gestützten Dashboard-Assistenten zur Automatisierung von V
 
 </td>
 
-<td width="100%" valign="top">
+<td width="maxWidth" valign="top">
 
 ### 🔧 Weitere Technologien & Tools
 
