@@ -120,10 +120,12 @@ KI-gestützter Dashboard-Assistent zur Automatisierung von Verwaltungs- und Fina
 ---
 
 ## 📊 GitHub Statistiken
-
+<div>
 <img src="https://streak-stats.demolab.com/?user=SkoofyDoo&theme=dracula&hide_border=true&border_radius=10" />
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkoofyDoo&theme=dracula" />
+</div>   
+
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkoofyDoo&theme=dracula" />
 
