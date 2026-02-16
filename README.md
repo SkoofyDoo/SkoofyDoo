@@ -117,7 +117,7 @@ Entwicklung eines KI-gestützten Dashboard-Assistenten zur Automatisierung von V
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkoofyDoo&theme=dracula" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkoofyDoo&theme=dracula" />
 </div>
 
