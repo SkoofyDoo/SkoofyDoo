@@ -40,43 +40,66 @@ Entwicklung eines KI-gestützten Dashboard-Assistenten zur Automatisierung von V
 **Ziel:** 1000 zahlende Nutzer innerhalb von 12 Monaten.
 
 ---
-
 ## 💻 Technologie-Stack
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
-<td width="maxWidth" valign="top">
+<td width="50%" valign="top">
+
+<div align="center">
 
 ### 🧠 Kerntechnologien
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/AWS_AppSync-FF9900?style=for-the-badge" /><br>
-<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<br/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/AWS_AppSync-FF9900?style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/Amazon_Cognito-DD344C?style=for-the-badge&logo=amazon-cognito&logoColor=white" />
+
+</div>
 
 </td>
 
-<td width="maxWidth" valign="top">
+<td width="50%" valign="top">
+
+<div align="center">
 
 ### 🔧 Weitere Technologien & Tools
 
-<img src="https://img.shields.io/badge/AWS_Amplify-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge" /><br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" /><br>
-<img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/AWS_Amplify-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge" />
+<br/>
 <img src="https://img.shields.io/badge/Serverless-111827?style=for-the-badge" />
+
+</div>
 
 </td>
 </tr>
 </table>
+>
 
 ---
 
