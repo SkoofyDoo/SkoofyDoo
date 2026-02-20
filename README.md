@@ -99,13 +99,13 @@ Fokus: Algorithmisches Denken & saubere Verarbeitungspipelines.
 ## 🧰 Tech Stack
 
 ### Core
-TypeScript · Node.js · React · GraphQL · AWS
+JavaScript · Node.js · React · AWS
 
 ### Cloud
 Lambda · DynamoDB · AppSync · Cognito · IAM · S3
 
 ### DevOps
-Docker · GitHub Actions · CI/CD · SBOM · OSV Scanner
+GitHub Actions · CI/CD · SBOM · OSV Scanner
 
 ### Security
 IAM Policies · Least Privilege · OWASP Basics · Dependency Management
