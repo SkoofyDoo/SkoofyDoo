@@ -1,7 +1,6 @@
 <div align="center">
 
-# Hi 👋 Ich bin Evgeny (SkoofyDoo)
-
+# Hi 👋 Ich bin Evgeny 
 ### Cloud & Security-orientierter Software Engineer  
 ### Fokus: Architektur · DevSecOps · AWS · Skalierbare Systeme  
 Berlin 🇩🇪
