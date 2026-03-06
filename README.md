@@ -1,15 +1,13 @@
 <div align="center">
 
-# Hi 👋 Ich bin Evgeny 
-### Cloud & Security-orientierter Software Engineer  
-### Fokus: Architektur · DevSecOps · AWS · Skalierbare Systeme  
-Berlin 🇩🇪
+# Hi 👋 Ich bin Evgeny
 
-<br/>
+### Junior Software Developer · Berlin 🇩🇪
+#### JavaScript · Node.js · React · AWS
 
 ![Location](https://img.shields.io/badge/Location-Berlin-111827?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-DE%20%7C%20EN%20%7C%20RU-black?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Cloud%20%7C%20Security%20%7C%20DevSecOps-1F2937?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Open%20for%20opportunities-22c55e?style=for-the-badge)
 
 </div>
 
@@ -17,110 +15,66 @@ Berlin 🇩🇪
 
 ## 👨‍💻 Über mich
 
-Ich entwickle cloud-native Anwendungen mit starkem Fokus auf:
+Fachinformatiker für Anwendungsentwicklung (Ausbildung seit Januar 2026) mit praktischer Erfahrung aus einem produktiv eingesetzten Startup-Projekt.
 
-- Security-by-Design  
-- Saubere Systemarchitektur  
-- Automatisierung & CI/CD  
-- Cloud-native Patterns  
-- Infrastruktur-Verständnis  
+Ich arbeite hauptsächlich mit JavaScript, Node.js und React – und interessiere mich zunehmend für Cloud-Architektur und sichere Backend-Systeme auf AWS.
 
-Ich denke in Systemen, Bedrohungsmodellen und Deployment-Flows –  
-nicht nur in Features.
-
-Mein langfristiger Fokus: **Cloud Engineering mit DevSecOps-Schwerpunkt.**
-
----
-
-## 🛡 DevSecOps & Security Fokus
-
-Aktiver Ausbau in folgenden Bereichen:
-
-- AWS IAM & Least-Privilege-Prinzip  
-- Infrastructure as Code (Serverless / Cloud-native Deployments)  
-- CI/CD Pipelines mit Security Checks  
-- Dependency Scanning (OSV, SBOM, CycloneDX)  
-- GitHub Actions Hardening  
-- Container-Basics & Docker  
-- OWASP Top 10 Awareness  
-- Bedrohungsanalyse & sichere API-Designs  
-
-Ich arbeite daran, Security nicht als Add-on, sondern als Architekturprinzip zu integrieren.
-
----
-
-## ☁ Cloud & Backend Engineering
-
-- AWS (AppSync, Lambda, DynamoDB, S3, Cognito, IAM)
-- Serverless Architektur
-- Event-driven Design
-- GraphQL (schema-first)
-- TypeScript Backend-Logik
-- NoSQL Datenmodellierung
-- API Security Patterns
-- Skalierungsstrategien
+Ich bin ehrlich über meinen Stand: Ich bin am Anfang, lerne schnell und suche ein Umfeld mit echtem Mentoring und Code Reviews.
 
 ---
 
 ## 🚀 Projekte
 
-### 🔹 Cloud-native SaaS (Side Project)
+### 🔹 Video Frame Processing System
 
-Eigenentwickelte Serverless-Plattform auf AWS mit:
+Backend-Modul zur automatisierten Qualitätsanalyse von Video-Frames – entwickelt während meiner Praxisphase und produktiv eingesetzt.
 
-- AppSync GraphQL API
-- Lambda Resolvern (TypeScript)
-- DynamoDB Single-Table-Design
-- Cognito Auth + Rollenmodell
-- S3 Storage Layer
-- CI/CD Deployment via Amplify
-- Automatisierte Dependency-Scans
+- Node.js (ESM)
+- OpenCV.js (`@techstark/opencv-js`) + sharp
+- Schärfebewertung via Laplacian Variance & Tenengrad
+- Relative Filterung + Anti-Streak-Logik
+- ZIP-Archivierung der gefilterten Frames
+- Echtzeit-Fortschritts-Tracking
 
-Fokus: Architektur, Deployment-Automatisierung & Security-Konzepte.
+**React-Komponente (Frontend):**
+- Frame-Extraktion direkt im Browser via Canvas API
+- Kein Backend, kein Upload – vollständig clientseitig
+- Fortschrittsanzeige + Fehlerbehandlung + Speicherbereinigung
 
 ---
 
-### 🔹 Video Frame Processing System (IHK Projekt)
+### 🔹 Serverless Side Project (AWS)
 
-Backend-Modul zur automatisierten Qualitätsanalyse von Videoframes:
+Eigenständig entwickelte Serverless-Anwendung auf AWS – als Lernprojekt zur praktischen Auseinandersetzung mit Cloud-Architektur.
 
-- Node.js
-- OpenCV.wasm
-- Schärfebewertung (Laplacian & Tenengrad)
-- Automatisierte Filter-Pipeline
-- Performance-Optimierung
-- Vorverarbeitung für 3D-Rekonstruktion
-
-Fokus: Algorithmisches Denken & saubere Verarbeitungspipelines.
+- AWS Lambda · DynamoDB · S3 · Cognito · AppSync
+- GraphQL API (schema-first)
+- CI/CD via Amplify
+- Fokus: Verstehen von Cloud-Infrastruktur und Deployment-Prozessen
 
 ---
 
 ## 🧰 Tech Stack
 
-### Core
-JavaScript · Node.js · React · AWS
+**Täglich gearbeitet:**
+JavaScript · Node.js · React · Git
 
-### Cloud
-Lambda · DynamoDB · AppSync · Cognito · IAM · S3
+**Praktische Projekterfahrung:**
+AWS Lambda · DynamoDB · S3 · Cognito · AppSync · GraphQL
 
-### DevOps
-GitHub Actions · CI/CD · SBOM · OSV Scanner
-
-### Security
-IAM Policies · Least Privilege · OWASP Basics · Dependency Management
+**Grundkenntnisse:**
+Docker · GitHub Actions · SQL
 
 ---
 
-## 🎯 Aktuelle Zielrichtung
+## 🎯 Was ich suche
 
-- Einstieg oder Weiterentwicklung im Bereich **Cloud / DevSecOps**
-- Verantwortung für sichere Deployments
-- Architektur-nahe Entwicklungsrollen
-- Systeme stabil & sicher betreiben
+Eine erste feste Stelle als Junior Developer in einem Team mit:
+- echtem Code Review durch erfahrene Entwickler
+- klaren Strukturen und Onboarding
+- Raum zum Lernen und Wachsen
 
-Langfristig:
-→ Cloud Security Engineer  
-→ DevSecOps Engineer  
+Ich bin kein Fertigprodukt – aber ich arbeite strukturiert, bin ehrlich über meine Lücken und lerne schnell in der richtigen Umgebung.
 
 ---
 
@@ -129,9 +83,3 @@ Langfristig:
 <img src="https://streak-stats.demolab.com/?user=SkoofyDoo&theme=dracula&hide_border=true&border_radius=10" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkoofyDoo&theme=dracula" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkoofyDoo&theme=dracula" />
-
----
-
-> Secure systems scale better.  
-> Automation beats manual fixes.  
-> Architektur entscheidet über Stabilität.
