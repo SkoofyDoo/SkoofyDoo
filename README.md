@@ -62,7 +62,7 @@ React-Komponente zur Frame-Extraktion direkt im Browser – ohne Backend, ohne U
 ## 🧰 Tech Stack
 
 **Frontend**
-JavaScript · React · Vite · Tailwind CSS · HTML5 · CSS3
+JavaScript · React · Vite · Tailwind CSS · HTML5 · CSS3 · React Three Fiber
 
 **Backend**
 Node.js · Express · REST API · OpenCV.WASM · Sharp
