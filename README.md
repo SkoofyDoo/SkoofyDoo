@@ -1,8 +1,7 @@
 <div align="center">
 
-# Hi 👋 Ich bin Evgeny
-
-### Junior Software Developer · Berlin 🇩🇪
+# Evgeny Kvest
+### Full Stack Developer · Berlin 🇩🇪
 #### JavaScript · Node.js · React · AWS
 
 ![Location](https://img.shields.io/badge/Location-Berlin-111827?style=for-the-badge)
@@ -15,71 +14,81 @@
 
 ## 👨‍💻 Über mich
 
-Fachinformatiker für Anwendungsentwicklung (Ausbildung seit Januar 2026) mit praktischer Erfahrung aus einem produktiv eingesetzten Startup-Projekt.
+Fachinformatiker für Anwendungsentwicklung aus Berlin mit praktischer Erfahrung in JavaScript, React, Node.js und AWS.
 
-Ich arbeite hauptsächlich mit JavaScript, Node.js und React – und interessiere mich zunehmend für Cloud-Architektur und sichere Backend-Systeme auf AWS.
+Während meiner Ausbildung habe ich drei eigenständige Projekte entwickelt und produktiv eingesetzt – von clientseitiger Videoverarbeitung im Browser bis hin zu einer vollständigen Serverless-Architektur auf AWS. Mein Fokus liegt auf durchdachten Architekturentscheidungen, sauberem Code und wartbaren Systemen.
 
-Ich bin ehrlich über meinen Stand: Ich bin am Anfang, lerne schnell und suche ein Umfeld mit echtem Mentoring und Code Reviews.
+Ich suche ein Team mit echtem Code Review, klaren Strukturen und Raum zum Wachsen.
 
 ---
 
 ## 🚀 Projekte
 
-### 🔹 Video Frame Processing System
+### 🔹 [Dallio](https://dallio.de) — Smartes Bürokratie-Tool
+Eigenständig entwickelte und deployte Serverless-Webanwendung zur Unterstützung bei deutschen Behördenprozessen – Kündigung, Widerspruch, Rechnungserstellung.
 
-Backend-Modul zur automatisierten Qualitätsanalyse von Video-Frames – entwickelt während meiner Praxisphase und produktiv eingesetzt.
+- **AWS Lambda · DynamoDB · S3 · Cognito · Amplify**
+- Amazon Bedrock Integration zur KI-gestützten Textanalyse
+- Presigned URLs für sicheren Datei-Download
+- PDF / CSV Generierung
+- CI/CD via AWS Amplify
 
-- Node.js (ESM)
-- OpenCV.js (`@techstark/opencv-js`) + sharp
-- Schärfebewertung via Laplacian Variance & Tenengrad
-- Relative Filterung + Anti-Streak-Logik
-- ZIP-Archivierung der gefilterten Frames
-- Echtzeit-Fortschritts-Tracking
-
-**React-Komponente (Frontend):**
-- Frame-Extraktion direkt im Browser via Canvas API
-- Kein Backend, kein Upload – vollständig clientseitig
-- Fortschrittsanzeige + Fehlerbehandlung + Speicherbereinigung
+🌐 [dallio.de](https://dallio.de)
 
 ---
 
-### 🔹 Serverless Side Project (AWS)
+### 🔹 [Schärfeanalyse-Pipeline](#) — Automatische Frame-Qualitätsbewertung
+Serverseitiges Node.js-Modul zur automatischen Schärfebewertung und Filterung von Video-Frames für medizinische 3D-Photogrammetrie.
 
-Eigenständig entwickelte Serverless-Anwendung auf AWS – als Lernprojekt zur praktischen Auseinandersetzung mit Cloud-Architektur.
+- **Node.js · OpenCV.WASM · Sharp**
+- Zwei kombinierte Schärfemetriken: Laplacian Variance + Tenengrad
+- Relative Filterung (Top-X%) + Anti-Streak-Mechanismus
+- ZIP-Archivierung der gefilterten Frames
+- Echtzeit-Fortschritts-Tracking via progressMap
 
-- AWS Lambda · DynamoDB · S3 · Cognito · AppSync
-- GraphQL API (schema-first)
-- CI/CD via Amplify
-- Fokus: Verstehen von Cloud-Infrastruktur und Deployment-Prozessen
+---
+
+### 🔹 [VideoSlicer](#) — Clientseitige Frame-Extraktion
+React-Komponente zur Frame-Extraktion direkt im Browser – ohne Backend, ohne Upload, ohne externe Bibliotheken.
+
+- **React · Canvas API · HTML5 Video API**
+- Vollständig clientseitig – keine Serverkosten, keine Dateiübertragung
+- Konfigurierbare Frame-Anzahl je nach Aufnahmetyp
+- Kompatibel mit mobilen Browsern (Safari, Chrome Mobile)
+- Timeout-Handling, Speicherbereinigung, Fortschrittsanzeige
 
 ---
 
 ## 🧰 Tech Stack
 
-**Täglich gearbeitet:**
-JavaScript · Node.js · React · Git
+**Frontend**
+JavaScript · React · Vite · Tailwind CSS · HTML5 · CSS3
 
-**Praktische Projekterfahrung:**
-AWS Lambda · DynamoDB · S3 · Cognito · AppSync · GraphQL
+**Backend**
+Node.js · Express · REST API · OpenCV.WASM · Sharp
 
-**Grundkenntnisse:**
-Docker · GitHub Actions · SQL
+**Cloud & DevOps**
+AWS Lambda · DynamoDB · S3 · Cognito · Amplify · Bedrock · Git · GitHub Actions
+
+**Datenbanken**
+MySQL · MongoDB
 
 ---
 
 ## 🎯 Was ich suche
 
-Eine erste feste Stelle als Junior Developer in einem Team mit:
-- echtem Code Review durch erfahrene Entwickler
-- klaren Strukturen und Onboarding
-- Raum zum Lernen und Wachsen
-
-Ich bin kein Fertigprodukt – aber ich arbeite strukturiert, bin ehrlich über meine Lücken und lerne schnell in der richtigen Umgebung.
+Eine erste feste Stelle als Junior Developer in einem Team mit echtem Mentoring, Code Reviews und strukturiertem Onboarding.
 
 ---
 
 ## 📊 GitHub Statistiken
 
+<div align="center">
+
 <img src="https://streak-stats.demolab.com/?user=SkoofyDoo&theme=dracula&hide_border=true&border_radius=10" />
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkoofyDoo&theme=dracula" />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkoofyDoo&theme=dracula" />
+
+</div>
