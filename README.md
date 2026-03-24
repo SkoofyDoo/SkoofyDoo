@@ -15,8 +15,7 @@
 ## 👨‍💻 Über mich
 
 Fachinformatiker für Anwendungsentwicklung aus Berlin mit praktischer Erfahrung in JavaScript, React, Node.js und AWS.
-
-Während meiner Ausbildung habe ich drei eigenständige Projekte entwickelt und produktiv eingesetzt – von clientseitiger Videoverarbeitung im Browser bis hin zu einer vollständigen Serverless-Architektur auf AWS. Mein Fokus liegt auf durchdachten Architekturentscheidungen, sauberem Code und wartbaren Systemen.
+Während meiner Ausbildung habe ich vier eigenständige Projekte entwickelt und produktiv eingesetzt – von clientseitiger Videoverarbeitung im Browser bis hin zu headless 3D-Rendering auf dem Server und einer vollständigen Serverless-Architektur auf AWS. Mein Fokus liegt auf durchdachten Architekturentscheidungen, sauberem Code und wartbaren Systemen.
 
 Ich suche ein Team mit echtem Code Review, klaren Strukturen und Raum zum Wachsen.
 
@@ -24,7 +23,20 @@ Ich suche ein Team mit echtem Code Review, klaren Strukturen und Raum zum Wachse
 
 ## 🚀 Projekte
 
+### 🔹 [3D-Vorschau-Pipeline](https://github.com/SkoofyDoo/3D-Vorschau-Pipeline-Headless-Rendering-Approval-Workflow) — Headless Rendering & Modellschutz
+
+Serverseitige Pipeline zur automatisierten Vorschaugenerierung von 3D-Medizinscans. Puppeteer startet einen headless Chromium-Prozess, der Three.js mit WebGL2 ausführt und 12 Kameraansichten rendert – texturiert und als Wireframe. Frames werden per `exposeFunction` direkt an Node.js gestreamt und in Nextcloud gespeichert. Ein Express-Proxy schützt die Originaldateien vor direktem Zugriff.
+
+- **Node.js · Express · Puppeteer · Three.js · Nextcloud WebDAV**
+- 12 automatische Kameraansichten (6× texturiert + 6× Wireframe)
+- Streaming-Architektur via `page.exposeFunction` – kein temporärer Speicher
+- Geschützter `/dav/*`-Proxy – Nextcloud-Credentials bleiben ausschließlich serverseitig
+- Automatische Modellzentrierung und -skalierung im Renderer
+
+---
+
 ### 🔹 [Dallio](https://dallio.de) — Smartes Bürokratie-Tool
+
 Eigenständig entwickelte und deployte Serverless-Webanwendung zur Unterstützung bei deutschen Behördenprozessen – Kündigung, Widerspruch, Rechnungserstellung.
 
 - **AWS Lambda · DynamoDB · S3 · Cognito · Amplify**
@@ -38,6 +50,7 @@ Eigenständig entwickelte und deployte Serverless-Webanwendung zur Unterstützun
 ---
 
 ### 🔹 [Schärfeanalyse-Pipeline](#) — Automatische Frame-Qualitätsbewertung
+
 Serverseitiges Node.js-Modul zur automatischen Schärfebewertung und Filterung von Video-Frames für medizinische 3D-Photogrammetrie.
 
 - **Node.js · OpenCV.WASM · Sharp**
@@ -49,6 +62,7 @@ Serverseitiges Node.js-Modul zur automatischen Schärfebewertung und Filterung v
 ---
 
 ### 🔹 [VideoSlicer](#) — Clientseitige Frame-Extraktion
+
 React-Komponente zur Frame-Extraktion direkt im Browser – ohne Backend, ohne Upload, ohne externe Bibliotheken.
 
 - **React · Canvas API · HTML5 Video API**
@@ -65,7 +79,7 @@ React-Komponente zur Frame-Extraktion direkt im Browser – ohne Backend, ohne U
 JavaScript · React · Vite · Tailwind CSS · HTML5 · CSS3 · React Three Fiber
 
 **Backend**
-Node.js · Express · REST API · OpenCV.WASM · Sharp
+Node.js · Express · REST API · OpenCV.WASM · Sharp · Puppeteer · Three.js
 
 **Cloud & DevOps**
 AWS Lambda · DynamoDB · S3 · Cognito · Amplify · Bedrock · Git · GitHub Actions
@@ -84,11 +98,7 @@ Eine erste feste Stelle als Junior Developer in einem Team mit echtem Mentoring,
 ## 📊 GitHub Statistiken
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=SkoofyDoo&theme=dracula&hide_border=true&border_radius=10" />
-
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkoofyDoo&theme=dracula" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkoofyDoo&theme=dracula" />
-
 </div>
