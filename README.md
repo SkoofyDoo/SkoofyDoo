@@ -97,10 +97,3 @@ Eine erste feste Stelle als Junior Developer in einem Team mit echtem Mentoring,
 
 ---
 
-## 📊 GitHub Statistiken
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=SkoofyDoo&theme=dracula&hide_border=true&border_radius=10" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkoofyDoo&theme=dracula" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkoofyDoo&theme=dracula" />
-</div>
