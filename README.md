@@ -6,7 +6,7 @@
 
 ![Location](https://img.shields.io/badge/Location-Berlin-111827?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-DE%20%7C%20EN%20%7C%20RU-black?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Open%20for%20opportunities-22c55e?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Ready%20to%20Work-22c55e?style=for-the-badge)
 
 </div>
 
