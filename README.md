@@ -17,7 +17,7 @@ Portfolio: https://portfolio-tawny-nine-79.vercel.app/
 ## 👨‍💻 Über mich
 
 Fachinformatiker für Anwendungsentwicklung aus Berlin mit praktischer Erfahrung in JavaScript, React, Node.js und AWS.
-Während meiner Ausbildung habe ich vier eigenständige Projekte entwickelt und produktiv eingesetzt – von clientseitiger Videoverarbeitung im Browser bis hin zu headless 3D-Rendering auf dem Server und einer vollständigen Serverless-Architektur auf AWS. Mein Fokus liegt auf durchdachten Architekturentscheidungen, sauberem Code und wartbaren Systemen.
+Während meiner Ausbildung habe ich vier eigenständige Projekte entwickelt und produktiv eingesetzt – von clientseitiger Videoverarbeitung im Browser bis hin zu headless 3D-Rendering auf dem Server und einer vollständigen Serverless-Architektur auf AWS. Mein Fokus liegt auf durchdachten Architekturentscheidungen, sauberem Code und wartbaren Systemen. Aktuell liegt mein Focus auf Spec Driven Development. Um die Prozesse tiefer zu verstehen befasse ich mich mit LangChain/LangGraph und sezte aktiv neue Kenntnisse für Prozessoptimierungen um. Ziel ist sichere und anpassbare Workflows zu gestalten.     
 
 Ich suche ein Team mit echtem Code Review, klaren Strukturen und Raum zum Wachsen.
 
