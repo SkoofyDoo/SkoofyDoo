@@ -15,6 +15,9 @@ Portfolio: https://portfolio-tawny-nine-79.vercel.app/
 ---
 MindGuard: https://mind-guard-five.vercel.app/
 ---
+Dallio: https://dallio.de
+---
+
 ## 👨‍💻 Über mich
 
 Fachinformatiker für Anwendungsentwicklung aus Berlin mit praktischer Erfahrung in JavaScript, React, Node.js und AWS.
