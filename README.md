@@ -29,18 +29,6 @@ Ich suche ein Team mit echtem Code Review, klaren Strukturen und Raum zum Wachse
 
 ## 🚀 Projekte
 
-### 🔹 [3D-Vorschau-Pipeline](https://github.com/SkoofyDoo/3D-Vorschau-Pipeline-Headless-Rendering-Approval-Workflow) — Headless Rendering & Modellschutz
-
-Serverseitige Pipeline zur automatisierten Vorschaugenerierung von 3D-Medizinscans. Puppeteer startet einen headless Chromium-Prozess, der Three.js mit WebGL2 ausführt und 12 Kameraansichten rendert – texturiert und als Wireframe. Frames werden per `exposeFunction` direkt an Node.js gestreamt und in Nextcloud gespeichert. Ein Express-Proxy schützt die Originaldateien vor direktem Zugriff.
-
-- **Node.js · Express · Puppeteer · Three.js · Nextcloud WebDAV**
-- 12 automatische Kameraansichten (6× texturiert + 6× Wireframe)
-- Streaming-Architektur via `page.exposeFunction` – kein temporärer Speicher
-- Geschützter `/dav/*`-Proxy – Nextcloud-Credentials bleiben ausschließlich serverseitig
-- Automatische Modellzentrierung und -skalierung im Renderer
-
----
-
 ### 🔹 [Dallio](https://dallio.de) — Smartes Bürokratie-Tool
 
 Eigenständig entwickelte und deployte Serverless-Webanwendung zur Unterstützung bei deutschen Behördenprozessen – Kündigung, Widerspruch, Rechnungserstellung.
@@ -52,30 +40,6 @@ Eigenständig entwickelte und deployte Serverless-Webanwendung zur Unterstützun
 - CI/CD via AWS Amplify
 
 🌐 [dallio.de](https://dallio.de)
-
----
-
-### 🔹 [Schärfeanalyse-Pipeline](#) — Automatische Frame-Qualitätsbewertung
-
-Serverseitiges Node.js-Modul zur automatischen Schärfebewertung und Filterung von Video-Frames für medizinische 3D-Photogrammetrie.
-
-- **Node.js · OpenCV.WASM · Sharp**
-- Zwei kombinierte Schärfemetriken: Laplacian Variance + Tenengrad
-- Relative Filterung (Top-X%) + Anti-Streak-Mechanismus
-- ZIP-Archivierung der gefilterten Frames
-- Echtzeit-Fortschritts-Tracking via progressMap
-
----
-
-### 🔹 [VideoSlicer](#) — Clientseitige Frame-Extraktion
-
-React-Komponente zur Frame-Extraktion direkt im Browser – ohne Backend, ohne Upload, ohne externe Bibliotheken.
-
-- **React · Canvas API · HTML5 Video API**
-- Vollständig clientseitig – keine Serverkosten, keine Dateiübertragung
-- Konfigurierbare Frame-Anzahl je nach Aufnahmetyp
-- Kompatibel mit mobilen Browsern (Safari, Chrome Mobile)
-- Timeout-Handling, Speicherbereinigung, Fortschrittsanzeige
 
 ---
 
