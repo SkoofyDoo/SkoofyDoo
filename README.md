@@ -13,7 +13,7 @@ JavaScript · React · Node.js · Python · AWS
 
 Ich baue Systeme, die man öffnen und prüfen kann — nicht Folien.
 
-Fachinformatiker für Anwendungsentwicklung in Berlin (seit 2026). In der Ausbildung und im Medtech-Praktikum habe ich End-to-End-Produkte deployed: Serverless auf AWS, RAG mit FastAPI, Bild- und Videopipelines im Browser und auf dem Server. TypeScript und LangGraph sind in aktiver Einarbeitung, nicht „Senior-Level“.
+Fachinformatiker für Anwendungsentwicklung in Berlin. In der Ausbildung und im Medtech-Praktikum habe ich End-to-End-Produkte deployed: Serverless auf AWS, RAG mit FastAPI, Bild- und Videopipelines im Browser und auf dem Server. TypeScript und LangGraph sind in aktiver Einarbeitung, nicht „Senior-Level“.
 
 Suche ein Team mit echtem Code Review und klaren Schnittstellen — Junior, der liefert und nachfragt, statt zu simulieren.
 
