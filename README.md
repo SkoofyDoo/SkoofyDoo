@@ -21,7 +21,7 @@ Suche ein Team mit echtem Code Review und klaren Schnittstellen — Junior, der 
 
 ## Ausgewählte Arbeit
 
-**[widerspruch.jetzt](https://widerspruch.jetzt)** · RAG-Produkt  
+**[widerspruch.jetzt](sgb2-rag-production.up.railway.app)** · RAG-Produkt  
 Formelle Widersprüche zu Jobcenter-Bescheiden (SGB II / SGB X). Gesetzestexte indexiert, relevante Absätze retrieved, Entwurf mit Zitat-Allowlist und Guards. Keine Rechtsberatung.
 
 `Python` `FastAPI` `Chroma` `E5` `Docker` `Railway` `Stripe`  
