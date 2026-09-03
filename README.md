@@ -25,7 +25,7 @@ Suche ein Team mit echtem Code Review und klaren Schnittstellen — Junior, der 
 Formelle Widersprüche zu Jobcenter-Bescheiden (SGB II / SGB X). Gesetzestexte indexiert, relevante Absätze retrieved, Entwurf mit Zitat-Allowlist und Guards. Keine Rechtsberatung.
 
 `Python` `FastAPI` `Chroma` `E5` `Docker` `Railway` `Stripe`  
-[Live](https://widerspruch.jetzt) · [Repo](https://github.com/SkoofyDoo/widerspruch.jetzt)
+[Live]() · [Repo](https://github.com/SkoofyDoo/widerspruch.jetzt)
 
 **[Dallio](https://dallio.de)** · Serverless Dokument-Assistent  
 Behördenschreiben digitalisieren, Fristen und Beträge ziehen, Dateien über Presigned URLs ausgeben. Auth, Storage und Verarbeitung liegen auf AWS.
