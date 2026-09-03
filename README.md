@@ -5,7 +5,7 @@
 
 JavaScript · React · Node.js · Python · AWS
 
-[Portfolio](https://portfolio-tawny-nine-79.vercel.app) · [dallio.de](https://dallio.de) · [widerspruch.jetzt](https://widerspruch.jetzt) · [Mail](mailto:evgenykvest@gmail.com)
+[Portfolio](https://portfolio-tawny-nine-79.vercel.app) · [dallio.de](https://dallio.de) · [widerspruch.jetzt]() · [Mail](mailto:evgenykvest@gmail.com)
 
 </div>
 
